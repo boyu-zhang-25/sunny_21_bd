@@ -27,7 +27,7 @@ pip3 install --upgrade Pillow
 python3 show.py sunny.png ciphered.png
 ```
 
-Only Sunny has the `sunny.png` key which decodes the `ciphered.png`. 
+Only Sunny has the `sunny.png` key which decodes the `ciphered.png`. After verifying my math, I highly recommend everyone to refrain from trying to find the correct pixel combinations brutally :-). 
 
 
 
