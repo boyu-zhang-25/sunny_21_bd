@@ -1,5 +1,5 @@
 # sunny_21_bd
-A gift to Sunny, the coooooolest girl and my soulmate, for her 21st birthday.
+A gift for Sunny, the coooooolest girl and my soulmate, at her 21st birthday.
 
 A small visual crypto program based on our fav. artist [SARAH BAHBAH](https://sarah-bahbah.myshopify.com/). The visual crypto algorithm is first proposed by [Moni Naor and Adi Shamir](https://link.springer.com/chapter/10.1007/BFb0053419) in 2006. 
 
